@@ -8,9 +8,10 @@ Click `Show` in the header to see your app live. Updates to your code will insta
 Find out more [about Glitch](https://glitch.com/about).
 
 
-Your Project
+Project Website 24
 ------------
 
+![front page](/Users/theophiluskwek/Downloads/projectwebsite24.glitch.me_.png)
 On the front-end,
 - edit `public/client.js`, `public/style.css` and `views/index.html`
 - drag in `assets`, like images or music, to add them to your project
