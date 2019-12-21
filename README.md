@@ -8,19 +8,16 @@ Click `Show` in the header to see your app live. Updates to your code will insta
 Find out more [about Glitch](https://glitch.com/about).
 
 
-Project Website 24
-------------
+Project website 24
+------------------
 
-![front page](/Users/theophiluskwek/Downloads/projectwebsite24.glitch.me_.png)
-On the front-end,
-- edit `public/client.js`, `public/style.css` and `views/index.html`
-- drag in `assets`, like images or music, to add them to your project
+![front page](https://cdn.glitch.com/90698d96-e472-4aba-9631-8fa222ff9f65%2Fprojectwebsite24.glitch.me_.png?v=1576902162276)
+![products](https://cdn.glitch.com/90698d96-e472-4aba-9631-8fa222ff9f65%2Fprojectwebsite24.glitch.me_products.html.png?v=1576902205164)
+![services](https://cdn.glitch.com/90698d96-e472-4aba-9631-8fa222ff9f65%2Fprojectwebsite24.glitch.me_services.html.png?v=1576902207813)
+![contacts](https://cdn.glitch.com/90698d96-e472-4aba-9631-8fa222ff9f65%2Fprojectwebsite24.glitch.me_contacts.html.png?v=1576902189351)
+![about](https://cdn.glitch.com/90698d96-e472-4aba-9631-8fa222ff9f65%2Fprojectwebsite24.glitch.me_about.html.png?v=1576902186869)
 
-On the back-end,
-- your app starts at `server.js`
-- add frameworks and packages in `package.json`
-- safely store app secrets in `.env` (nobody can see this but you and people you invite)
-
+A website project done during my internship
 
 Made by [Glitch](https://glitch.com/)
 -------------------
